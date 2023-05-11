@@ -30,4 +30,20 @@ permutations, this number is too much to manage in terms of marketing strategies
 For this, we would decrease the permutations by getting the average scores of the 
 frequency and monetary (as both of them are indicative to purchase volume anyway) 
 
+Labeling each customer by : 
+
+
+![Screenshot 2023-05-11 230644](https://github.com/HabibaaMohey/Analytical_Sql/assets/132647130/82d49c64-ae84-47b8-a68a-b7d38450f482)
+
+
+
+
+
+
+# The other dataset is daily purchasing transactions for customers Using Analytical SQL answer the following questions:
+- What is the maximum number of consecutive days a customer made purchases?
+- On average, How many days/transactions does it take a customer to reach a spent 
+threshold of 250 L.E?
+
+
 
